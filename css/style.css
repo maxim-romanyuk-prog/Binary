@@ -345,7 +345,7 @@ html{
 }
 /* ============================================================================= */
 .partners {
-	background:  url(./img/footer/BG/footer-BG.png) center / cover no-repeat;
+	background:  url(../img/footer/BG/footer-BG.png) center / cover no-repeat;
 	padding: 100px 0px 70px 0px;
 }
 .container {
